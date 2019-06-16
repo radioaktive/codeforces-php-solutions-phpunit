@@ -11,7 +11,7 @@ phpunit
 
 Example run only one test:
 ```bash
-phpunit tests\c935_A_Test.php
+phpunit tests/c935_A_Test.php
 ```
 
 All my codeforces.com submissions: [https://codeforces.com/submissions/radioaktive](https://codeforces.com/submissions/radioaktive)
