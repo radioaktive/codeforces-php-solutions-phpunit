@@ -13,5 +13,9 @@ Example run only one test:
 ```bash
 phpunit tests/c935_A_Test.php
 ```
+After adding new solution/test run:
+```bash
+composer dump-autoload
+```
 
 All my codeforces.com submissions: [https://codeforces.com/submissions/radioaktive](https://codeforces.com/submissions/radioaktive)
